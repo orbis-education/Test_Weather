@@ -8,7 +8,7 @@ This application should display the current weather for a zip code, which is ent
 
 ## **Tasks**
 
-1. Prompt user for their zip code.
+1. Prompt the user for their zip code.
 2. Display the hourly forecast, in three hour segments. (Ex: if it is currently 12:00pm, the application should show predicted weather at 3:00pm, 6:00pm, and 9:00pm.)
 3. Display the extended five-day forecast.
 
