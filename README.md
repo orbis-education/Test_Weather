@@ -4,7 +4,7 @@ The goal of this assignment is to test your knowledge of JavaScript and React by
 
 ## **Guidelines**
 
-This application should display the current weather for a zip code, which is entered by the user. It should list the predicted weather for three, six, and nine hours out, and also show an extended five-day forecast.
+This application should display the current weather for a zip code, which is entered by the user. It should list the predicted weather for three, six, and nine hours out, and also show an extended five-day forecast. Please build this application entirely in React/Redux.
 
 ## **Tasks**
 
